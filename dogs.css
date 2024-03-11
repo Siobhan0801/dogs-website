@@ -1,0 +1,83 @@
+body {
+  font-family: Tahoma, sans-serif;
+  background-color: white;
+}
+
+header {
+  text-align: center;
+}
+
+.brown-dog {
+  background-color: #91A3B044;
+  width: 98%;
+  margin: 30px auto;
+  padding: 10px 0;
+  min-width: 400px;
+}
+
+#img-div {
+  justify-content: center;
+  margin: 10px auto; 
+  border: solid 10px white;
+}
+
+img {
+  max-width: 100%;
+  display: block;
+  height: auto;
+  margin: 0 auto; 
+}
+
+.black.dog {
+  background-color: white;
+  width: 95%;
+  margin: 10px auto;
+}
+figcaption {
+  display: block;
+  padding: 10px;
+  text-align: center;
+}
+
+.bold {
+  font-weight: 800;
+}
+
+.dogs-life {
+  font-size: 15px;
+}
+
+.breeds {
+  text-align: left;
+  width: 100%;
+  margin: 0px auto;
+  min-width: 100px;
+}
+
+#quote-div {
+  text-align: left;
+  width: 90%;
+  margin: 0px auto;
+  min-width: 400px;
+}
+
+#quote, #source {
+  font-style: italic;
+}
+
+h2 {
+  text-align: center;
+  font-size: 18px;
+  margin: 30px 0;
+  padding: 30px 0;
+}
+
+li{
+  padding-bottom: 1px;
+  }
+
+#footer {
+  text-align: center;
+  padding: 10px 0;
+  width: 100%
+}
